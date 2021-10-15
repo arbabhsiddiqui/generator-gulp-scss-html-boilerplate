@@ -1,0 +1,27 @@
+{
+  "name": "generator-gulp-scss-html-boilerplate",
+  "version": "1.0.0",
+  "description": "gulp base scss and html boilerplate generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbabhsiddiqui/generator-gulp-scss-html-boilerplate.git"
+  },
+  "keywords": [
+    "scss_boilerplate",
+    "gulp_boilerplate",
+    "yeoman-generator"
+  ],
+  "author": "Arbab Hussain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arbabhsiddiqui/generator-gulp-scss-html-boilerplate/issues"
+  },
+  "homepage": "https://github.com/arbabhsiddiqui/generator-gulp-scss-html-boilerplate#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.4.2"
+  }
+}
