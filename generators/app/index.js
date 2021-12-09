@@ -31,7 +31,7 @@ module.exports = class extends Generator {
   end() {
     this.log(" ");
     this.log(
-      "Finished generating! All you need to do is to  run npm init then copy all content of _devDependencies into package.json after author and run command npm i then run gulp command"
+      "File Generated Successfully!!!  -- run gulp command to start project"
     );
     this.log(" ");
   }
